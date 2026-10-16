@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# .NET build files
+bin/
+obj/
+
+# Frontend dependencies
+node_modules/
+dist/
+dist-ssr/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log

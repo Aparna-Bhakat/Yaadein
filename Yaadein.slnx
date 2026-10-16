@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="yaadein.client/yaadein.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Yaadein.Server/Yaadein.Server.csproj" />
+</Solution>
